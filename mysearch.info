@@ -1,0 +1,4 @@
+name = My search
+description = My search
+core = 7.x
+package = Other
